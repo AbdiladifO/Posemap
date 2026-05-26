@@ -1,6 +1,6 @@
 # PoseMap
 
-Live demo 
+Live demo:
 https://scintillating-crepe-a3b76c.netlify.app/
 
 An interactive 3D anatomy posing tool for artists
